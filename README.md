@@ -6,4 +6,5 @@ Note: Only functional on Laravel 7.x version.
 - Type `laravel new tolong` in a specified folder. 
 - Clone this repo / download and paste in the specified folder. (Overwrite ALL).
 - Create database `laravel_tolong`.
+- Open a terminal/bash/command prompt in the folder and type `npm install`.
 - Open a terminal/bash/command prompt in the folder and type `php artisan migrate`.
